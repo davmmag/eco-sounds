@@ -1,3 +1,3 @@
 # davmmag-JSFEPRESCHOOL
 
-https://rolling-scopes-school.github.io/davmmag-JSFEPRESCHOOL/eco-sounds/
+https://davmmag.io/eco-sounds/eco-sounds/
