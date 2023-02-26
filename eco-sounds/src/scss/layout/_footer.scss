@@ -1,0 +1,14 @@
+.footer {
+  &__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 25px;
+  }
+
+  &__item {
+    font-size: 3.2rem;
+    line-height: 1.3;
+    text-decoration: none;
+  }
+}

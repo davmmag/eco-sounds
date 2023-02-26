@@ -1,0 +1,20 @@
+.main {
+  &__container {
+    background: url(../assets/img/drozd.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 163px);
+    width: 100%;
+    position: relative;
+  }
+
+  &__controls {
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    z-index: 1;
+  }
+}

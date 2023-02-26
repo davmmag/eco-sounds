@@ -1,0 +1,17 @@
+.light {
+  --first-color: #ffffff;
+  --second-color: #000000;
+  --thirty-color: #f3f3f3;
+  --theme-icon: url(../assets/svg/light.svg);
+  --logo: url(../assets/svg/logo.svg);
+  --logo-footer: url(../assets/svg/rss.svg);
+}
+
+.dark {
+  --first-color: #000000;
+  --second-color: #ffffff;
+  --thirty-color: #000000;
+  --theme-icon: url(../assets/svg/dark.svg);
+  --logo: url(../assets/svg/logo1.svg);
+  --logo-footer: url(../assets/svg/rss1.svg);
+}
